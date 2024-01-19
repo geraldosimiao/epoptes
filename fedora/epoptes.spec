@@ -9,7 +9,7 @@ Release:        1%{?dist}
 License:        GPLv3+
 Summary:        Computer lab management tool
 Url:            http://www.epoptes.org
-Source0:        https://github.com/geraldosimiao/epoptes/archive/refs/tags/%{name}-%{version}.tar.gz
+Source0:        https://github.com/geraldosimiao/epoptes/releases/tags/%{name}-%{version}.tar.gz
 Source1:        epoptes-rpmlintrc
 Source2:        epoptes-server.service
 Source3:        epoptes-client.service
