@@ -4,12 +4,12 @@
 %global __python /usr/bin/python3
 
 Name:           epoptes
-Version:        23.01
+Version:        23.08
 Release:        1%{?dist}
 License:        GPLv3+
 Summary:        Computer lab management tool
 Url:            http://www.epoptes.org
-Source0:        https://github.com/epoptes/epoptes/archive/refs/tags/%{name}-%{version}.tar.gz
+Source0:        https://github.com/geraldosimiao/epoptes/archive/refs/tags/%{name}-%{version}.tar.gz
 Source1:        epoptes-rpmlintrc
 Source2:        epoptes-server.service
 Source3:        epoptes-client.service
