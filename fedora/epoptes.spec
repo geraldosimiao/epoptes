@@ -153,7 +153,7 @@ systemctl start epoptes-server.service
 
 %changelog
 * Mon Jun 12 2023 Geraldo Simiao <geraldosimiao@fedoraproject.org> 23.01-1
-- first build for fedora 37 and 38
+- first build for fedora 37 and 38.
 - removed tightvnc patch and requires and changed other dependencies names for correct ones
 - adjusted the services, macros and openssl key generation
 * Wed Feb 24 2016 cyberorg@opensuse.org
